@@ -1,0 +1,31 @@
+.category-card{
+
+    transition:.35s;
+
+    cursor:pointer;
+
+    border-radius:15px;
+
+}
+
+.category-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 12px 25px rgba(0,0,0,.15)!important;
+
+}
+
+.category-icon{
+
+    color:#2874F0;
+
+}
+
+.category-card h5{
+
+    font-weight:600;
+
+    margin-top:10px;
+
+}

@@ -1,0 +1,53 @@
+.product-card{
+
+    transition:.3s;
+
+    cursor:pointer;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+}
+
+.product-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 15px 35px rgba(0,0,0,.18);
+
+}
+
+.product-image{
+
+    height:220px;
+
+    object-fit:cover;
+
+}
+
+.product-price{
+
+    font-size:20px;
+
+    color:#2874F0;
+
+    font-weight:bold;
+
+}
+
+.product-title{
+
+    font-weight:600;
+
+    height:50px;
+
+}
+
+.discount{
+
+    color:green;
+
+    font-weight:600;
+
+}
