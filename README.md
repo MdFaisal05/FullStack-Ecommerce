@@ -65,25 +65,7 @@ The project follows a frontend-backend architecture where the React.js frontend 
 
 ---
 
-## 📁 Project Structure
 
-```text
-FullStack-Ecommerce/
-│
-├── ecommerce-backend/
-│   ├── src/
-│   ├── pom.xml
-│   └── ...
-│
-├── ecommerce-frontend/
-
-
-
-│   ├── src/
-│   ├── package.json
-│   └── ...
-│
-└── README.md
 
 ## 📸 Screenshots
 
