@@ -65,6 +65,29 @@ The application follows a frontend-backend architecture where the **React.js fro
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+### ### 📦 Products Page
+
+![Products Page](screenshots/products.png)
+
+### 📦 Products Details
+
+![Product Details](screenshots/product-details.png)
+
+### 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+### 📝 Register Page
+
+![Register Page](screenshots/register.png)
+
+
 ## 🏗️ Project Structure
 
 ```text
@@ -90,27 +113,6 @@ FullStack-Ecommerce/
 └── README.md
 
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home Page](screenshots/home.png)
-
-### ### 📦 Products Page
-
-![Products Page](screenshots/products.png)
-
-### 📦 Products Details
-
-![Product Details](screenshots/product-details.png)
-
-### 🔐 Login Page
-
-![Login Page](screenshots/login.png)
-
-### 📝 Register Page
-
-![Register Page](screenshots/register.png)
 
 
 
