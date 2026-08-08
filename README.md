@@ -87,25 +87,25 @@ FullStack-Ecommerce/
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](./ScreenShot/Home.png)
 
-### Products Page
+### 🔐 Login Page
 
-![Products Page](screenshots/products.png)
+![Login Page](./ScreenShot/Login.png)
 
-### Product Details
+### 🛍️ Products Page
 
-![Product Details](screenshots/product-details.png)
+![Products Page](./ScreenShot/Products.png)
 
-### Login Page
+### 📦 Product Details
 
-![Login Page](screenshots/login.png)
+![Product Details](./ScreenShot/ProductsDetails.png)
 
-### Register Page
+### 📝 Register Page
 
-![Register Page](screenshots/register.png)
+![Register Page](./ScreenShot/Register.png)
 
 
 
