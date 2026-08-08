@@ -1,74 +1,83 @@
-# Full Stack E-Commerce Application
+# 🛒 Full Stack E-Commerce Application
 
-A full-stack e-commerce web application built using Java,
-Spring Boot, MySQL, React.js and REST APIs.
+A full-stack e-commerce web application developed using **Java, Spring Boot, MySQL, React.js, and REST APIs**.
+
+The project follows a frontend-backend architecture where the React.js frontend communicates with the Spring Boot backend through RESTful APIs.
+
+---
 
 ## 🚀 Features
 
 ### Backend
-- User Registration & Login
-- Spring Security Authentication
+
 - Product Management
+- Product Listing
+- Product Details
 - Category Management
 - Product Search
 - Product Filtering
-- Pagination & Sorting
+- Pagination
+- Sorting
 - Price Range Filtering
 - RESTful APIs
 - MySQL Database
 - JPA / Hibernate
+- Layered Architecture
 
 ### Frontend
+
 - React.js
 - React Router
 - Product Listing
 - Product Details
-- Category-wise Products
-- Login & Registration
-- Responsive UI
+- Category-based Products
 - Axios API Integration
+- Responsive User Interface
+
+---
 
 ## 🛠️ Technologies Used
 
 ### Backend
+
 - Java
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- Spring Security
 - MySQL
-- REST API
+- REST APIs
 - Maven
 
 ### Frontend
+
 - React.js
 - JavaScript
 - Axios
 - React Router
-- Bootstrap
+
+### Tools
+
+- IntelliJ IDEA
+- Visual Studio Code
+- Git
+- GitHub
+- MySQL
+
+---
 
 ## 📁 Project Structure
 
+```text
 FullStack-Ecommerce/
 │
 ├── ecommerce-backend/
-│
 │   ├── src/
 │   ├── pom.xml
 │   └── ...
 │
 ├── ecommerce-frontend/
-│
 │   ├── src/
 │   ├── package.json
 │   └── ...
 │
 └── README.md
-
-## ▶️ How to Run
-
-### Backend
-
-```bash
-cd ecommerce-backend
-mvnw spring-boot:run
