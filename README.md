@@ -77,7 +77,7 @@ The project follows a frontend-backend architecture where the React.js frontend 
 
 ![Products Page](screenshots/products.png)
 
-### 📦 Product Details
+### 📦 Products Details
 
 ![Product Details](screenshots/product-details.png)
 
