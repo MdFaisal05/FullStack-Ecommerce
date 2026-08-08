@@ -71,23 +71,26 @@ The project follows a frontend-backend architecture where the React.js frontend 
 
 ### 🏠 Home Page
 
-![Home Page](./ScreenShot/Home.png)
+![Home Page](screenshots/home.png)
 
-### 🔐 Login Page
+### ### 📦 Products Page
 
-![Login Page](./ScreenShot/Login.png)
-
-### 🛍️ Products Page
-
-![Products Page](./ScreenShot/Products.png)
+![Products Page](screenshots/products.png)
 
 ### 📦 Product Details
 
-![Product Details](./ScreenShot/ProductsDetails.png)
+![Product Details](screenshots/product-details.png)
+
+### 🔐 Login Page
+
+![Login Page](screenshots/login.png)
 
 ### 📝 Register Page
 
-![Register Page](./ScreenShot/Register.png)
+![Register Page](screenshots/register.png)
 
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 
