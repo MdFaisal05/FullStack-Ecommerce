@@ -89,8 +89,6 @@ The project follows a frontend-backend architecture where the React.js frontend 
 
 ![Register Page](screenshots/register.png)
 
-### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
 
 
