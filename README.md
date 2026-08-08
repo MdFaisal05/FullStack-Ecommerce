@@ -2,13 +2,13 @@
 
 A full-stack e-commerce web application developed using **Java, Spring Boot, MySQL, React.js, and REST APIs**.
 
-The project follows a frontend-backend architecture where the React.js frontend communicates with the Spring Boot backend through RESTful APIs.
+The application follows a frontend-backend architecture where the **React.js frontend communicates with the Spring Boot backend through RESTful APIs**.
 
 ---
 
 ## 🚀 Features
 
-### Backend
+### 🔹 Backend
 
 - Product Management
 - Product Listing
@@ -24,7 +24,7 @@ The project follows a frontend-backend architecture where the React.js frontend 
 - JPA / Hibernate
 - Layered Architecture
 
-### Frontend
+### 🔹 Frontend
 
 - React.js
 - React Router
@@ -65,6 +65,29 @@ The project follows a frontend-backend architecture where the React.js frontend 
 
 ---
 
+## 🏗️ Project Structure
+
+```text
+FullStack-Ecommerce/
+│
+├── ecommerce-backend/
+│   ├── src/
+│   ├── pom.xml
+│   └── ...
+│
+├── ecommerce-frontend/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+│
+├── ScreenShot/
+│   ├── Home.png
+│   ├── Login.png
+│   ├── Products.png
+│   ├── ProductsDetails.png
+│   └── Register.png
+│
+└── README.md
 
 
 ## 📸 Screenshots
